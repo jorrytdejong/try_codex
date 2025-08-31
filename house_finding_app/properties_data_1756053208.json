@@ -1,0 +1,54 @@
+{
+  "house1": {
+    "name": "Teijlerstraat",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1523603/teijlerstraat/",
+    "address": "2562 RP Den Haag (Rond de Energiecentrale)",
+    "price": "€ 675 per maand",
+    "details": [
+      "37 m²",
+      "2 kamers"
+    ]
+  },
+  "house2": {
+    "name": "Teijlerstraat",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1523585/teijlerstraat/",
+    "address": "2562 RP Den Haag (Rond de Energiecentrale)",
+    "price": "€ 675 per maand\nTransparant\nMeer informatie",
+    "details": [
+      "37 m²",
+      "2 kamers",
+      "Gestoffeerd"
+    ]
+  },
+  "house3": {
+    "name": "'s-Gravenzandelaan",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1518620/s-gravenzandelaan/",
+    "address": "2512 JL Den Haag (Schildersbuurt-West)",
+    "price": "€ 853 per maand",
+    "details": [
+      "20 m²",
+      "1 kamer"
+    ]
+  },
+  "house4": {
+    "name": "'s-Gravenzandelaan",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1518613/s-gravenzandelaan/",
+    "address": "2512 JL Den Haag (Schildersbuurt-West)",
+    "price": "€ 866 per maand",
+    "details": [
+      "30 m²",
+      "1 kamer"
+    ]
+  },
+  "house5": {
+    "name": "Regentesselaan",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1518333/regentesselaan/",
+    "address": "2562 EJ Den Haag (Rond de Energiecentrale)",
+    "price": "€ 884 per maand",
+    "details": [
+      "43 m²",
+      "2 kamers",
+      "Gestoffeerd"
+    ]
+  }
+}

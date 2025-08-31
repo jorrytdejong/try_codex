@@ -1,0 +1,2 @@
+- If students or any variation appears in the description, don't respond to the listing
+- search on the credentials of my own account. If having found a new house, login with adhira's credentials 

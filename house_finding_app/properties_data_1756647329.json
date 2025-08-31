@@ -1,0 +1,75 @@
+{
+  "house1": {
+    "name": "Newtonstraat",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1524852/newtonstraat/",
+    "address": "2562 KV Den Haag (Rond de Energiecentrale)",
+    "price": "€ 795 per maand",
+    "details": [
+      "19 m²",
+      "3 kamers"
+    ]
+  },
+  "house2": {
+    "name": "Kepplerstraat",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1524598/kepplerstraat/",
+    "address": "2562 VG Den Haag (Koningsplein en omgeving)",
+    "price": "€ 1.195 per maand\nTransparant\nMeer informatie",
+    "details": [
+      "34 m²",
+      "2 kamers",
+      "Gemeubileerd"
+    ]
+  },
+  "house3": {
+    "name": "Teijlerstraat",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1523603/teijlerstraat/",
+    "address": "2562 RP Den Haag (Rond de Energiecentrale)",
+    "price": "€ 675 per maand",
+    "details": [
+      "37 m²",
+      "2 kamers"
+    ]
+  },
+  "house4": {
+    "name": "Teijlerstraat",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1523585/teijlerstraat/",
+    "address": "2562 RP Den Haag (Rond de Energiecentrale)",
+    "price": "€ 675 per maand\nTransparant\nMeer informatie",
+    "details": [
+      "37 m²",
+      "2 kamers",
+      "Gestoffeerd"
+    ]
+  },
+  "house5": {
+    "name": "'s-Gravenzandelaan",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1518620/s-gravenzandelaan/",
+    "address": "2512 JL Den Haag (Schildersbuurt-West)",
+    "price": "€ 853 per maand",
+    "details": [
+      "20 m²",
+      "1 kamer"
+    ]
+  },
+  "house6": {
+    "name": "'s-Gravenzandelaan",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1518613/s-gravenzandelaan/",
+    "address": "2512 JL Den Haag (Schildersbuurt-West)",
+    "price": "€ 866 per maand",
+    "details": [
+      "30 m²",
+      "1 kamer"
+    ]
+  },
+  "house7": {
+    "name": "Regentesselaan",
+    "url": "https://www.huurwoningen.nl/huren/den-haag/1518333/regentesselaan/",
+    "address": "2562 EJ Den Haag (Rond de Energiecentrale)",
+    "price": "€ 884 per maand",
+    "details": [
+      "43 m²",
+      "2 kamers",
+      "Gestoffeerd"
+    ]
+  }
+}
